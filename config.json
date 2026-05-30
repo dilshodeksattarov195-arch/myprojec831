@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsdalculate",
+        "uuid": 2515437,
+        "checksum": "fiy09p"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
